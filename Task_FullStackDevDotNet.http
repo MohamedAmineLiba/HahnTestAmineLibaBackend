@@ -1,0 +1,6 @@
+@Task_FullStackDevDotNet_HostAddress = http://localhost:5064
+
+GET {{Task_FullStackDevDotNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
